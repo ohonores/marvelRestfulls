@@ -1,2 +1,2 @@
 # marvelRestfulls
-Proyect using react with redus for testing marvel Api
+Proyect using react with redux for testing marvel Api
